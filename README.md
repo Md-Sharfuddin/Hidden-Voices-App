@@ -51,7 +51,7 @@ Designed with scalability and responsiveness in mind, Hidden Voices is built usi
 
 You can try out the hosted version of Hidden Voices here:
 
-👉 [Live App](to be edited)
+👉 [Live App]("coming soon")
 
 > *Note: All messages are stored anonymously and securely.*
 
@@ -61,7 +61,7 @@ You can try out the hosted version of Hidden Voices here:
 
 Explore the complete source code and ongoing development:
 
-🔗 [GitHub Repository](to be edited)
+🔗 [GitHub Repository](https://github.com/Md-Sharfuddin/Hidden-Voices-App)
 
 ---
 
