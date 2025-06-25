@@ -97,7 +97,7 @@ const UserDashboard = () => {
     setIsLoading(true);
     try {
       const response = await axios.get<ApiResponse>("/api/get-messages");
-      setMessages((response.data.message ?? []) as Message[]);
+      setMessages((response.data.message ?? []) as unknown as Message[]);
       if (refresh) {
         toast({
           title: "Refreshed Messages",
