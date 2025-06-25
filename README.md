@@ -51,7 +51,7 @@ Designed with scalability and responsiveness in mind, Hidden Voices is built usi
 
 You can try out the hosted version of Hidden Voices here:
 
-👉 [Live App]("coming soon")
+👉 [Live App](hidden-voices-app.vercel.app)
 
 > *Note: All messages are stored anonymously and securely.*
 
